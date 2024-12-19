@@ -14,34 +14,20 @@ export default function CreatePost() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log({ title, content, author });
-    if (action === "edit") {
-      try {
-        await axios.put(`${API_URL}/blogs/${id}`, {
-          title,
-          content,
-          author,
-        });
-      } catch (err) {
-        console.error(err);
+    try {
+      if (action === "edit" && id) {
+        await axios.put(`${API_URL}/blogs/${id}`, { title, content, author });
+      } else {
+        await axios.post(`${API_URL}/blogs`, { title, content, author });
       }
-    } else {
-      try {
-        await axios.post(`${API_URL}/blogs`, {
-          title,
-          content,
-          author,
-        });
-      } catch (err) {
-        console.error(err);
-      }
+      router.push("/");
+    } catch (err) {
+      console.error(err);
     }
-    // Redirect to home page after creation
-    router.push("/");
   };
 
   useEffect(() => {
-    if (action === "edit") {
+    if (action === "edit" && id) {
       const fetchPost = async () => {
         try {
           const res = await axios.get(`${API_URL}/blogs/${id}`);
@@ -54,13 +40,12 @@ export default function CreatePost() {
       };
       fetchPost();
     }
-  }, [action]);
+  }, [action, id]); // Fixed dependency warning
 
   return (
     <Layout>
       <Typography variant="h4" component="h1" gutterBottom>
-        {action === "edit" ? "Edit" : "Create"}
-        Post
+        {action === "edit" ? "Edit" : "Create"} Post
       </Typography>
       <form onSubmit={handleSubmit} className="space-y-4">
         <TextField
@@ -90,7 +75,7 @@ export default function CreatePost() {
           required
         />
         <Button type="submit" variant="contained" color="primary">
-          Create Post
+          {action === "edit" ? "Update" : "Create"} Post
         </Button>
       </form>
     </Layout>

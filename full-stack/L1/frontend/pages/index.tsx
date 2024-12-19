@@ -2,9 +2,6 @@ import React, { useEffect, useState } from "react";
 import Layout from "@/components/Layout";
 import { BlogPost } from "@/interfaces/BlogPost";
 import {
-  Card,
-  CardContent,
-  Typography,
   Button,
   Table,
   TableBody,
@@ -18,10 +15,6 @@ import Link from "next/link";
 import { API_URL } from "@/lib/const";
 import axios from "axios";
 import { useRouter } from "next/router";
-
-interface HomeProps {
-  posts: BlogPost[];
-}
 
 export default function Home() {
   const [posts, setPosts] = useState<BlogPost[]>([]);
@@ -68,6 +61,7 @@ export default function Home() {
                 <TableCell>Date</TableCell>
                 <TableCell>Title</TableCell>
                 <TableCell>Author</TableCell>
+                <TableCell>Actions</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -80,18 +74,16 @@ export default function Home() {
                     <TableCell>{post.title}</TableCell>
                     <TableCell>{post.author}</TableCell>
                     <TableCell>
-                      <Button href={`/create?action=edit&id=${post.id}`}>
-                        Edit
-                      </Button>
-                      <Button onClick={() => handleDelete(post.id)}>
-                        Delete
-                      </Button>
+                      <Link href={`/create?action=edit&id=${post.id}`} passHref>
+                        <Button>Edit</Button>
+                      </Link>
+                      <Button onClick={() => handleDelete(post.id)}>Delete</Button>
                     </TableCell>
                   </TableRow>
                 ))
               ) : (
                 <TableRow>
-                  <TableCell colSpan={3} align="center">
+                  <TableCell colSpan={4} align="center">
                     No posts available.
                   </TableCell>
                 </TableRow>
@@ -99,32 +91,6 @@ export default function Home() {
             </TableBody>
           </Table>
         </TableContainer>
-
-        <Typography variant="h5" component="h2" gutterBottom>
-          Recent Posts
-        </Typography>
-        <div className="space-y-4">
-          {posts && posts.length > 0 ? (
-            posts.map((post) => (
-              <Card key={post.id}>
-                <CardContent>
-                  <Typography variant="h6" component="h3">
-                    {post.title}
-                  </Typography>
-                  <Typography color="textSecondary" gutterBottom>
-                    {new Date(post.created_at).toLocaleDateString()} by{" "}
-                    {post.author}
-                  </Typography>
-                  <Typography variant="body2" component="p">
-                    {post.content.substring(0, 100)}...
-                  </Typography>
-                </CardContent>
-              </Card>
-            ))
-          ) : (
-            <Typography variant="body1">No posts available.</Typography>
-          )}
-        </div>
       </div>
     </Layout>
   );
