@@ -1,4 +1,4 @@
-# this is the third stage in the rag pipeline where different distance metrics are being used here while searching the vectorDB
+# this is the final stage in the rag-pipeline where we are using a re-ranker to give me the LLM the most relevant context
 
 # there are two parts to it, the first is creating the embeddings, the second is to ask a question against the stored embeddings. 
 
@@ -11,6 +11,7 @@
 # In the query flow
 ### The for the input query first embeddings are created
 ### The next step is to retrieve the chunks that have a similarity to the query-embeddings
+### These retreived chunks are passed to embedder model that re-ranks the chunks that is the most relevant to the query.
 ### These are then passed into the LLMs to format a response 
 
 ### Running the Rag-pipeline 
@@ -21,4 +22,3 @@ $ pip install -r requirements.txt
 $ python read-file-adapt-create-embeddings-and-write.py
 $ python ask_chatbot.py
 ```
-

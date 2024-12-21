@@ -2,12 +2,11 @@ import requests
 from vector_database.vector_database import VectorDB 
 from embedder.embedder import Embedder
 
-# Initialize components
 embedder = Embedder()
 vector_db = VectorDB(path='vector_database/data', collection_name="test_rec")
 
-# Function to query Open Assistant API
 def generate_answer_online(query, context_chunks):
+    '''Function to query Open Assistant API'''
     # Concatenate the context
     context = '\n'.join(context_chunks)
     input_text = f"Question: {query}\nContext: {context}\nAnswer:"
@@ -28,11 +27,9 @@ def generate_answer_online(query, context_chunks):
     else:
         return f"Error: Unable to fetch response (status code {response.status_code})"
 
-# Main loop to process queries
 while True:
     QUERY = input("Ask question to the bot! - ")
 
-    # Encode the query and search for relevant chunks
     query_embedding = embedder.encode_query(QUERY)
     top_k = vector_db.query_embeddings(query_embedding)
     
@@ -41,6 +38,5 @@ while True:
     top_chunks_string = '\n'.join(top_chunks_list)
     print(f"Top chunks are: {top_chunks_string}")
 
-    # Generate answer using Open Assistant API
     answer_to_query = generate_answer_online(QUERY, top_chunks_list)
     print(f"\n\nANSWER TO THE QUERY : {answer_to_query}")

@@ -4,7 +4,6 @@ import cohere
 from vector_database.vector_database import VectorDB
 from embedder.embedder import Embedder
 
-# Load API key from .env file
 load_dotenv()
 COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 
@@ -14,11 +13,9 @@ if not COHERE_API_KEY:
 # Initialize Cohere client
 cohere_client = cohere.Client(COHERE_API_KEY)
 
-# Initialize components
 embedder = Embedder()
 vector_db = VectorDB(path='vector_database/data', collection_name="test_rec", similarity_method="cosine")
 
-# Function to query Cohere API
 def generate_answer_online(query, context_chunks):
     # Concatenate the context
     context = '\n'.join(context_chunks)
@@ -38,7 +35,6 @@ def generate_answer_online(query, context_chunks):
 while True:
     QUERY = input("Ask question to the bot! - ")
 
-    # Encode the query and search for relevant chunks
     query_embedding = embedder.encode_query(QUERY)
     top_k = vector_db.query_embeddings(query_embedding)
 
@@ -47,6 +43,5 @@ while True:
     top_chunks_string = '\n'.join(top_chunks_list)
     print(f"Top chunks are: {top_chunks_string}")
 
-    # Generate answer using Cohere API
     answer_to_query = generate_answer_online(QUERY, top_chunks_list)
     print(f"\n\nANSWER TO THE QUERY : {answer_to_query}")

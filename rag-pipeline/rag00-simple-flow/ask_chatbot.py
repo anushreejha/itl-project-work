@@ -33,7 +33,6 @@ while True:
     
     print(f"Top chunks are: {top_chunks_string}")
 
-    # Generate the answer using GPT-2 model and top chunks
     answer_to_query = generate_answer(QUERY, top_chunks_string)
     
     print(f"\n\nANSWER TO THE QUERY: {answer_to_query}")
