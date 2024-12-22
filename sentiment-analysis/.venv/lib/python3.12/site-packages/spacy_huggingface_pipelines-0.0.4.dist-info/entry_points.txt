@@ -1,0 +1,3 @@
+[spacy_factories]
+hf_text_pipe = spacy_huggingface_pipelines.text_classification:make_hf_text_pipe
+hf_token_pipe = spacy_huggingface_pipelines.token_classification:make_hf_token_pipe
