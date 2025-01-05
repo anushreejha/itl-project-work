@@ -1,0 +1,2097 @@
+G O V E R N M E N T
+E  M A R K E T P L A C E
+
+               GeM Handbook
+                        July 2018
+31701deal                                                                             Arun Jaitley
+    4774 4A                                                                                Union Minister
+                                                                                      31"1 July, 2018
+                                                 FOREWORD
+                         miNt         thc   Eudget      20o-2074              hald                   the
+             establishment of       technologv driven plattorm to fncilitnte the prcsurement
+               gcxodls and services by various Ministries and agencies of the Government
+             Government        Marketplace (GieM), which !as luunchec under the Ministry
+                 Comimerce  On         Augus[ 2016 is meant                      centralized, uninied
+             prourement platform that would inerease COVerage. access and efficiency of
+            publie  procurement in QUF country. GeMhas come                       Honn Wa"sincc its
+             initiatiom. ad with continued momentum; it shall create an unprecedented
+            change      publie procurement
+                    GeM allows for optimization of public expenditure hesicees providing #
+                       transactions by bringing the buyers and  sellers on                 Common
+             plattorMA       order t0 support GeM          renching its ohjective, the Ministry of
+             Finance aded Kule 149in thc General Financial Rules, 2017 mandating
+             purchases through GeM by Government USCES The GFR rule ulsu} stipulales
+             the fundamental guidelines by which GeMf shall operate: There                  MOI    need
+             for all Iuving entities to understand that by virtue of GeM being              technology
+             driven patorm there shall be             fundamental shift required in the current
+             pI(X UFCMCHL prtx"esses and policies:
+                    'This   decument nns been   developec                provide       compreheusive
+             understandling of GeM and summarizes the overall design and plan for the
+             GeM inilialite: Il                    deline Uie &pC           operations for GeM and
+             clearly   detine the      expectations that Gel holds trom                             nnd
+             stakeholders atu vitv 'ersa.
+                    The Lunclamental objective   of  GeMiS                  ceate SavingS for thc
+             Government GeM is expected to significamtly recluce hxoth the transaction
+             atll imninistrative costs         public proxcurement: Given the size and scale of
+             public prcx"urement in QUF country, GeM would lead to significant Savings of
+             precious public resources-
+                              Certain   this hindbook  woula              Kmense                all the
+             stnkeholders und contribute to promoling this HCW cashless; contactless and
+             paperlexs modleof procurement
+                                                                                      (Arun Jaitley)
+SURESH PRABHU                                                                                                                                                                                                                                                            ailupva                              Jar;
+                                                                                                                                                                                                                                                                                                              T feel
+                                                                                                                                                                                                                                                              COMMERCEminISTERAND INDUSTRY;
+                                                                                                                                                                                                                                            GOvERNMENT OF INDIA NEW DELHICivIL AviatioN
+                                                                                                                                  FOREWORD
+                                                  E-Goveralee has been one of" the biggest ugenda items                                                                                                                                                                                        our  counin .
+                        Over Ihe YcurS urious Centml Ministrics an Stale ( iovernments have unelertaken
+                                large number of initiatives towards this end                                                                                                                                         The Government                                                             Marketplace
+                       signifieunt impaet On eflicient spending and the productivity of our country:
+                                                                                                    (GeM) is one such Key mega-scale initintive thaL; in the long rn. shall make
+                                                  The GeM aspires                                                                 revolutionize Uepublie procurement landseape in the
+                        country by buildingconimerce Hunzet 6se obuyery ~ller; und ~enice prowiters Fuilatruly open und transpurent plotforn, which will be nvailable
+                        uu nceessible hy                                                          mqch
+                                       modem                                                                                 (cchnologics                                                               coupled with veriliable mcans
+                        aulhenticily of" suppliers and  purchasers; GeM allows for                                                                                                                                                                                       end-to-cnd rcliable
+                        procurement transaction                                                                                  be done completcly online ie cashless, contactless and
+                       papetless_
+                                                                 initiative 0l"this scale tor                                                                             burgeoning digital economy- such                                                                                                           India .
+                        HaaLs tlnee potential                                                    cate far-Tcuching impact beyond oline procuremeni:
+                                      GieM $ eas}                                                             platfon shall make                                                                     possible for all sellers t0 do business
+                                      witl tlie: (overtment.                                                                     The: platfon will be inclusive and will encourage and
+                                    support MSMEs and Startups in becoming competitive.
+                                      GcM $ robust audit trail shallbring about increased aecountability   umnongst
+                                      buyets; Incrasd nc(abilily Will allow US                                                                                                                                                do JWuy with the CUITUTIJoe
+                                                  GeM shall soon possess
+                        siles                     This datu shall have multipl: implications allowing the Govemnment (0 make
+                        data-driven decisions and use analytics (o driv e policy-making.
+                                                   Te GeM Will $m Uccome                                                                                           cornerstone of nation building and has already
+                        shown sienificant impacl                                                                                    the short time: sinec its initiationa                                                                                                   coneerted eMort iS
+                        required Irom ull Goverment buyers . sellers and the various parlreTs i the GieM
+                        ecosrstem (0 nke                                                                                                      and to allow                                            t0 unlack its tull potential:
+                       designing ils prtesses ua policics. lo #Et uS tlie principl guiding fonct base forThe GcN Handbook
+                                                                                                                                                                                                                                                                               (Suresh Prabhu)
+                   Ministry 0/ Civil Aviation 2306149223001008 Fux 23082947,Exmulll
+                                                                                   Ministry 0f Commorce            Indusiny
+               Tel Ko 94-81-23082223,                                                                                                                      Bhawan; Saldanung Alrport; Nex Delhi-"10003
+                                                                                                                                   Ganohi
+                                 Tel No                         91211224610350,?4632891 Fax " 74610354 F-maI                                                                                                                                     nm Moca nicin
+difupuu ufad
+                                                                                                                                                                                                                                                                                                                                                                               IR TRHRR
+Rita Teaotia, IAS                                                                                                                                                                                                                                                                                                                                                 Tfr                                                 110011
+                                                                                                                                                                                                                                                                                                                                           COMMERCE SECRETARY
+                                                                                                                                                                                                                                                                                                                                             GOVERNMENT OF INDIANEW DELHI-11OOT1
+                                                                                                                                                                               EREEACE
+                                                    India                        currently  spends More                                                                                          Inam                                         25 Iakh                                      crore                                         Public procurement                                                                   The
+                   Goverment e-Marketplaze (Cem)                                                                                                                                                                   initiative of the Govermnentleverage the quantum growth inIndia i0 etlect an
+                    cvoiution                                              public procurcment: The Gel plalform aspiresprocos; inefficiencies ad human inenventions
+                   public procurement and drivc three key cbE clives
+                                                                    aiqimulcapabilty                        Inaia                                 reduce manua                                                                                                                                                      efficiency and transparency
+                                                                                                                                                                                                                                                                openness.
+                   Indian public procurernent
+                   Frccess and procurement data . Tnis would result incomplele online solution implies reduced human intenerdn und Iull visib Iity 0t thesystem that                                                                                                                                                                 transparent and open, ano
+                   makes the procurernent process significantly faster
+                                                    The                      Govemmeni e Marke piace                                                                                                               GcM)Government ownedlaunched                                                                                                             Aljust 2016 and
+                     managed by GeM Spccial Purpose Velcle                                                                                                                                                                                                                                                                             Section                                       Company under
+                   the Department                                                                             Commerce                                                             its enccavor                                                                 continunusly                                                  evolye                                                                 becoming
+                   worla-class , robust and
+                     26" January                                                 2018 addressing multiple technica GeM launchedstaio nf tha-att poral                                                                                          Senes and rolling oul nL  advanced featuresscaled Up version: GeM 3 0 on
+                                                    Whule [                                       important =                                             note that GeMGeM has achieved signifcant suecess $o far CemIne nasceni pnascs                                                                                                                                its journey and Iha;
+                     Ineremore Inan goverment organ zatons regi stered a8 buyers and has already builtimmense potential going forward                                                                                                                                                                                                                                                                      seller base
+                     nas 20,O00                                                                                                                                                                                                                   and Medum Enterprises acdition, Gen hasstates                                  India
+                                                                                          20,000 sellers who come IIOIII DCross
+                     collaborated                                                wlh Ihe  Ministcy                                                                                 Mcro;                           Smal                                                                                                                                                                  acccierate
+                     advance the presenceUIDAI and MCA 21 f0 the plattcimMSMEs on                                                                                                                                                                     Ilow contractingGcM has collaboraled wlh mullple Keydata fcr authenticaton t0 simplfy Ine
+                     entities such                                                                                                                                                                       seamless                                                                                                                                          payments. Souih AsiaGeM nas
+                     Processess gnificant nationa pracurement vansaclonreg stration;
+                     Procurement Innovation Awward and Ineinationai
+                      [eceicd                                                                                                                                                                                                                   acclain                                                                                  awarded the
+                                                                                                                                                                           the World Bank                                                                   2016
+                                                      The Fumpose                                                              Inis Cocument Ihe GeM initiative across Strategy anJ Operations. It willestablish                                                                rodisit                         structute a basic set cf rules
+                     (ha: wll qulde thc different aspects
+                     act as Ihe principal guiding force for the design 5                                                                                                                                                                          processes and policics fot GcM
+                                                                                                                                                                                                                                                                                                                                                      Teaolia
+                     New Delhi
+                     11 July 2018
+                               Room No 143 Udyon Bhawan , Tel " 23063564                                                                                                                                                                                             23061796                                            Emall                              csomce@nic In
+TABLE OF CONTENT
+1. Introduction                                       6
+1.1 GeM Charter                                       6
+1.2 GeM Special Purpose Vehicle                       7
+1.3 Founding Principles of the GeM Initiative         8
+1.4 Objective of this Document                        9
+
+2. GeM Platform                                       10
+2.1 Scope of Operations for the GeM Platform          10
+2.2 Potential for the GeM Platform                    11
+2.3 Key Features Supported by the GeM Platform        11
+2.4 GeM Procurement Guidelines                        19
+2.5 Monetization on the GeM Platform                  21
+
+3. GeM Organization (GeM SPV)                         23
+3.1 Vision, Mission and Values for GeM SPV            23
+3.2 Organization Structure                            24
+3.3 Functioning of the GeM SPV                        25
+3.4 Governance Structure                              27
+
+4. GeM Stakeholders Ecosystem                         28
+4.1 Key Role and Responsibilities: Buyers             28
+4.2 Key Role and Responsibilities: Sellers            29
+4.3 Interfacing with Other Key Stakeholders: Guiding
+Principles of Collaboration                           29
+
+5. Appendix                                           32
+5.1 Appendix A – Templates for GeM scoreboards        32
+5.2 Appendix B - GeM Procurement Guidelines           33
+1. Introduction
+The Government e Marketplace
+(GeM) platform was launched on 9
+th August, 2016 as an online, end
+to end solution for procurement
+of commonly used goods and
+services for all Central Government
+and State Government Ministries,
+Departments, Public Sector Units
+(PSUs) and affiliated bodies. The
+purpose of this document is to
+establish a robust structure and
+basic set of rules that will guide the
+different facets of the GeM initiative
+across strategy and operations. This
+document is in furtherance to the
+following Government directives
+issued in relation to GeM.
+1. Rule 141-A of GFR 2005,
+superseded by Rule 149 of GFR 2017.
+2. Office Memorandum on GeM
+payment and timelines dated 20th
+September, 2016.
+
+3. Office Memorandum on the
+entry in the Government of India
+(Allocation of Business) Rules, 1961
+dated 9th December, 2016.
+
+4. Cabinet Note dated 7th April,
+2017.
+
+5. Cabinet Secretariat Notification
+dated 8th December, 2017.
+
+This document shall therefore
+act as the principle guiding force
+basis which GeM shall design its
+processes and policies. While this
+document shall be revised as the
+platform and organization matures,
+there are certain key elements of
+GeM that are immutable and form
+its foundation. The GeM Charter
+captures these elements as a set
+of commitments that GeM shall
+undertake and uphold going
+forward.
+
+
+
+
+1.1 GeM Charter
+
+
+1. GeM shall provide a complete end-to end
+contactless, cashless and paperless procurement
+system:
+GeM shall cover the entire procurement process
+right from vendor registration to order fulfillment
+and payment.
+
+2. GeM shall constantly endeavor to enhance
+transparency and efficiency in the procurement
+process:
+GeM shall bring about standardization in the
+procurement process and ensure adherence to
+timely delivery and payment.
+3. GeM shall be a trust based system with minimal
+manual intervention:
+GeM shall leverage technology and the existing
+database with domain Ministries to ensure ease
+and convenience in the processes of registration,
+procurement transaction and contracting.
+
+4. GeM shall provide decision support to help
+users achieve optimal value-for-money:
+GeM platform shall provide additional features
+such as buyer and seller rating, tools to establish
+price reasonability and demand forecasting to
+help its users make more informed decisions.
+
+5. GeM shall provide a robust audit trail along with
+an internal system of check and controls:
+GeM platform shall employ a system of inbuilt
+checks and controls and maintain an audit trail
+(for a period specified on the GeM platform) that
+shall make it possible to trace back the activity of
+any user if the need arises.
+
+6. GeM shall be an inclusive platform and support
+the objectives of the various preferential market
+access policies:
+GeM shall, to the extent possible, encourage
+
+and enable local businesses, Micro and Small
+Enterprises (MSEs) and startups to conduct
+business with the Government.
+7. GeM shall in line with its principles of
+transparency and openness publish a monthly
+scoreboard on the platform:
+GeM shall keep all its stakeholders informed
+regarding the development and growth of the GeM
+platform by way of a monthly scoreboard1 that
+shall cover the following key elements -
+
+1.2 GeM Special Purpose
+Vehicle
+Public procurement amounts to
+15-20% of a nation’s GDP2 and
+therefore an efficiently run public
+procurement process is critical
+to our nation’s economy. A well-
+functioning and efficient public
+procurement system helps the
+development process by improving
+the strategic and efficient
+allocation and utilization of
+government expenditure i.e. public
+procurement.
+
+
+       •GMV (Monthly)
+       •Number of buyers and sellers
+       •Number of product and service categories
+       •% orders with delivery and payment within
+         time and ageing
+       •% savings achieved
+       •Number of unfulfilled or cancelled orders
+       •Number of disputes/incidents registered
+         and resolved with ageing
+
+
+
+GeM shall send this overall report along with the
+progress shown at the level of each Ministry and
+State to the Cabinet Secretary and the Commerce
+Secretary. GeM shall also send quarterly progress
+reports of these parameters at a Ministry/State/
+UT level to each of the respective Secretaries and
+Chief Secretaries/Administrators.
+8. GeM shall actively drive collaboration with key
+stakeholders including Ministries and States:
+GeM shall interface with the Standing Committees
+(for each Ministry and State) on various issues
+including annual procurement plan, defining
+technical specifications and reviewing the
+procurement process.
+
+
+
+  1 Indicative template is provided in the appendix A
+  2  World Bank Country Procurement Assessment Report
+
+
+7
+For a geographically large and
+politically diverse nation such
+as India, standardizing public
+procurement is a challenging task.
+The prevailing public procurement
+regime in India is characterized by
+fragmented processes and policies
+that operate in silos and require
+high levels of manual intervention.
+
+The genesis of the Government e
+Marketplace (GeM) initiative is thus
+driven by the need to deliver a step
+change in the public procurement
+process in the country and usher
+in an era of e-governance by
+leveraging the power of digital.
+
+The following entry has been
+made in the Government of India
+(Allocation of Business) Rules, 1961,
+vide notification dated 8 th
+December 2017 - “32. Development,
+operation and maintenance of
+National Public Procurement
+Portal—Government e Marketplace”.
+The Government e Marketplace
+Special Purpose Vehicle (GeM SPV),
+a Section 8 (Non-Profit) Private
+Limited Company under the
+Ministry of Commerce has been
+incorporated under the Companies
+Act, 2013 to develop, manage and
+maintain the GeM platform.
+1.3 Founding Principles of the GeM Initiative
+
+›
+     1.3.1 Summary of the Cabinet Note
+The foundation for the GeM initiative has been laid down through the Cabinet Note on “Setting
+up of a Special Purpose Vehicle to be called Government e Marketplace (GeM SPV)” dated 7th
+April, 2017. This note defines the purpose with which GeM has been envisioned. This stated
+purpose shall play a key role in defining the strategy and operating model for GeM
+
+Key elements from the note are as follows:
+
+Reason behind the GeM initiative
+
+  •  Need for reform to bring consistency in public procurement
+  •  Existing malpractices in the system due to buyer-supplier interaction
+
+Founding principles of GeM SPV (Special Purpose Vehicle to develop, manage and maintain the
+GeM platform)
+  •  Incorporated as a Section 8 Company. Decision on public listing of GeM SPV to be taken
+     subsequently.
+  •  Autonomous organization which is agile and has flexibility to take market driven decisions
+  •  The organization shall break-even and self-sustain its operations from 3rd year onwards.
+  •  The sources of monetization (charges to buyers and sellers) shall be kept to minimum,
+     enough to sustain running of SPV and pay Managed Service Provider (MSP)
+  •  Fully accountable to tax payers and the Government
+  •  Promote inclusiveness and ease of doing business with the Government and its agencies
+
+Impact that GeM is expected to deliver
+
+  •  Increase access for procurement - broader outreach, wider variety of goods and services
+  •  Increase transparency and efficiency (time & cost) of procurement
+  •  Encourage small business units/individuals to do business with the Government
+  •  Make procurement data easily available for auditors, administrators, vigilance etc.
+
+It is important to note that as the GeM platform and organization evolve, the founding
+principles will also have to evolve. Thus, the principles of GeM and the organization shall be
+periodically reviewed and appropriate modifications shall be undertaken in consultation with
+key stakeholders and with the consent of the Government.
+
+›    1.3.2 Role and Nature of the GeM Initiative
+In the constantly evolving procurement process in the country, it is useful to reiterate the
+role of GeM. GeM shall use modern technology and enablers to bring together all government
+buyers on a unified online platform for the procurement of commonly used goods and services.
+It shall reduce manual process inefficiencies in procurement and provide a paperless and
+cashless e-marketplace with a streamlined, consistent process for all users. All buying and
+selling stakeholders on GeM shall have to adapt to this standardized process and necessary re-
+engineering to this effect will be needed at their end.                                          8
+GeM is characterized by three core elements:
+
+Openness                                      Fairness                                  Inclusiveness
+
+GeM shall be an open                          One of the platform’s                     GeM shall promote
+marketplace wherein                           key objectives is to allow                inclusiveness, which
+it promotes access                            sellers, big and small,                   means that all Government
+to information and                            to gain direct access to                  buyers and sellers shall be
+transparency. Relevant                        Government buyers. In                     accepted on the platform.
+information on sellers,                       doing so, all sellers shall               GeM shall aspire to create
+goods, and services                           be treated fairly and GeM                 a robust seller base and
+shall be easy to find and                     shall not offer promotional               all sellers interested in
+readily available for users.                  treatment to one seller                   conducting business with
+GeM shall provide data-                       over the other. GeM shall                 the Government shall be
+based insights to help                        support the intentions                    welcomed on the platform.
+users in decision-making                      behind the preferential                   For buyers and sellers
+and ascertaining price                        market access policies                    that do not have the
+reasonability.                                and ensure that all sellers               know-how of using GeM,
+                                              are provided with a level                 additional assistance in the
+                                              playing field. This will                  form of focused training,
+                                              ensure the health and                     onboarding sessions and
+                                              competitiveness of the                    continued feedback and
+                                              marketplace.                              support shall be provided.
+
+1.4 Objective of this Document
+This document serves to provide a comprehensive understanding of the guiding principles by
+which GeM shall operate and has been structured along three key chapters:
+
+1. GeM Platform
+This section shall define the scope of operations and potential for the GeM platform. It also
+lays down the underlying principles by which the different features of the platform shall be
+designed and the key obligations that the GeM platform holds towards its users.
+
+2. GeM Organization (GeM SPV)
+This section details out the strategic and operational roadmap of the GeM Organization (GeM
+SPV) that is required to deliver the GeM platform. It also provides a brief on the governance
+structure that will be instituted for the GeM SPV.
+
+3. GeM Stakeholder Ecosystem
+This section introduces the different stakeholders within the GeM ecosystem and calls out their
+role and responsibility. It also lays down the guiding principles of collaboration for GeM.
+
+9
+2. GeM Platform
+
+
+
+
+2.1 Scope of Operations for the GeM Platform
+
+
+
+There are three facets to defining the scope of
+operations for the GeM platform:
+
+Who are the customers (both buyers and sellers) that
+GeM platform will cater to
+
+What will be the goods and services offered on the
+GeM platform
+
+How shall the GeM platform operate to execute the
+aforementioned ‘Who’ and ‘What’
+
+
+
+Who                                   What
+
+
+GeM has been                          GeM has been conceived as
+conceptualized with the               a platform for the sale and
+aim of reforming public               purchase of commonly used
+procurement in the                    goods and services. The
+country. The GFR 2017                 spectrum of goods and services
+mandates all Ministries               procured by the Government is
+or Departments to                     very wide. The goods procured
+procure Goods and                     by the Government range from
+Services available on                 highly standardized goods
+GeM from GeM. GeM aims                like A4 printing paper, printing
+to replicate the offline              cartridges and electronic goods
+market on its online                  like printers and laptops to
+platform to create an                 highly specialized goods like
+open market that bring                drilling equipment and medical
+together sellers across               equipment. Similarly, for
+the board ranging from                services, the spectrum ranges
+established brands to                 from standard services such
+MSEs, individual suppliers,           as security services, chauffeur
+suppliers of innovative               services and gardening services
+products and services                 to a more complex set of
+and artisans. GeM                     specialized services such
+shall permit any seller,              as consulting services and
+registered in India in                engineering services.
+accordance with prevalent
+laws and regulations,                 While GeM shall seek to cater to
+manufacturing or                      all the buyer needs for goods
+marketing genuine goods/              and services that are commonly
+services to sell on GeM.              used, it shall build its goods and
+
+
+services offering in a staged
+manner. GeM shall prioritize
+those goods and services to
+be supported in the short
+
+term that have a low level
+of customization, are more
+standardized and have larger
+transaction volumes in the
+public procurement domain.
+As the GeM platform matures,
+it shall support goods
+and services requiring higher
+degree of complexity.
+
+At the same time, the GeM
+platform shall clearly define
+the set of goods and services
+that the platform shall
+never cater to constituting
+the exclusion list. This shall
+include goods that are highly
+specialized and limited to very
+niche buyer segment, such
+as defence equipment, and
+
+services like mining services.
+
+How
+
+The GeM platform shall be
+an open marketplace and
+shall focus solely on being
+a platform for Government
+buyers to meet sellers and
+conduct business. It shall
+neither own the goods and
+services sold through the
+platform nor own the supply
+and logistics of goods and
+services transacted on it. The
+GeM platform shall be a trust-
+based portal where the buyer
+shall hold the responsibility
+to ensure value for money
+and timely payment in any
+purchase made and the seller
+shall hold the responsibility
+to ensure the accuracy and
+integrity of all information
+shared, the quality of products
+and services sold and the
+timeliness of the delivery.
+                                      10
+2.2 Potential for the GeM Platform3
+The value of annual spend on public procurement in India is estimated at anywhere between 18
+– 20% of India’s GDP. This spend constitutes the entire universe of goods and services procured.
+Approximately 20% of total goods (~2 L Cr) and 7.5% of total services (~1.5 L Cr) can be classified
+as goods and services addressable in the short term for the GeM platform. The ability to capture
+the largest possible part of this addressable spend and drive it through the platform shall
+depend on three key factors:
+  •  The proportion of buyers out of the total universe of buyers comprising public procurement
+  •  in India that are successfully on-boarded onto the GeM platform
+  •  The availability of requisite goods and services, as needed by these buyers, on the platform
+     The portion of the buyers’ spend that the platform is able to capture
+
+Given the GeM platform’s starting point, it is envisaged that over a 2 -3 year period, close to
+1 L Cr of annual transaction value can be targeted on the platform. Since the procurement
+landscape in India is considerably diverse in terms of geographic and policy-related
+considerations, higher penetration shall be targeted for buyers covered under Central
+Government (such as Central Ministries, Departments, Central Public Sector Enterprises, and
+Public Sector Undertakings) which account for ~65% of total addressable spend.
+
+Over a 5 – 6 year period, the GeM platform shall be able to target 2 -3 L Cr. of annual transaction
+value and in the long-run (10-12 years) it could potentially capture as much as 5% of India’s
+nominal GDP in terms of transaction value. The aspiration is in line with benchmarks of global
+best-in-class e-procurement portals (such as ChileCompra, GeBIZ and KONEPS) which capture
+anywhere between 4.5% - 6% of their respective countries’ GDP through online transactions
+supported by their respective platforms.
+
+2.3 Key Features Supported by the GeM Platform
+2.3.1 Registration
+
+The GeM registration process shall be driven by principles of ease, convenience and minimal
+data entry. The following key considerations shall be considered in designing the GeM
+registration process:
+
+  •  Registration shall be trust based (self-certified) and validated exclusively through online
+     integration with domain databases
+  •  Aadhaar shall be used as the primary user identification proof
+  •  Transfers/personnel movement shall be supported seamlessly by clear distinction of user
+     and post
+
+Monitoring and re-verification for detection of inactive user accounts
+User accounts shall be regularly monitored to detect inactive accounts. For accounts that the
+GeM platform deems inactive basis criteria that GeM may layout and revise from time to time,
+users shall be required to re-verify their details in order to ensure that the accounts are active
+and updated. The GeM platform shall reserve the right to deactivate accounts that are deemed
+unfit or inactive to maintain the sanctity of the platform.
+
+11            3  All figures are as per FY 17 GDP
+2.3.2 Catalogue Management (CMS)
+
+        As a marketplace, one of the founding pillars of the GeM platform shall be its goods and
+        services catalogue. Given the multitude of buyer organizations that will transact on the
+        platform and their large procurement needs, the scale and the spread of the type of
+        transactions on the GeM platform shall be enormous. A robust Category Management System
+        shall be fundamental to be able to support a standardized buying process, create a competitive
+        market and provide the buyer with search and compare capability. The GeM platform shall thus
+        provide a rich catalogue with complete information of the features and specifications of the
+        offerings.
+
+2.3.2.1 Product and Service Taxonomy: The
+United Nations Standard Products and
+Services Code
+
+
+The GeM CMS shall be based on The United
+Nations Standard Products and Services
+Code® (UNSPSC®)4 , managed by GS1 US
+for the UN Development Program (UNDP).
+However, efforts to develop harmonized
+and customized codification system in
+association with other partners such as
+GSTN, Railways etc shall be made.
+
+2.3.2.2 Standardization of Technical
+Specifications/Parameters
+
+
+The technical specifications constitute
+a critical aspect of public procurement.
+One of the key facets of the GeM platform
+shall be the standardization of these
+specifications/parameters. GeM shall
+provide standardized templates of technical
+parameters (TP), for both goods and
+services, designed to maximize objectivity.
+
+This standardization of parameters shall
+be the principal virtue of the GeM platform
+that differentiates it from the prevalent
+offline processes and systems. This shall
+lend itself to GeM being a fair, open and
+
+
+
+brand agnostic platform. In addition, while
+procuring on the GeM platform, buyers shall
+not need to invest the time or effort required
+in identifying the right list of parameters that
+comprehensively constitute the product or
+service.
+The TPs on the GeM platform shall be demand
+driven, market-aligned, consultative and
+dynamic. In a scenario where the buyer
+finds the Technical Parameters defined on
+the GeM platform for any good or service as
+not sufficiently comprehensive and requires
+parameters to be either added or modified,
+the buyer shall be able to inform GeM of its
+requirements. This process shall be inbuilt into
+the platform to the extent possible. Standard
+Operating Procedures (SOPs) for such upgrades
+and updates of TP of GeM catalog will be
+dynamic and evolving, without compromising
+on the need to keep the GeM catalog generic at
+all times.
+
+2.3.2.3 Goods and Services Supported on the
+Platform
+
+
+The GeM platform shall be a dynamic
+marketplace where new categories of goods
+and services are continuously added. The
+platform shall provide buyers and sellers with
+the functionality to suggest the goods/services
+they need supported. The list of goods and
+services excluded from the platform shall also
+be clearly published on the platform and may
+be subject to change as the platform matures.
+
+          4 GeM reserves the right to add to this classification
+          system and customize it as and when needed
+
+                                                                                                        12
+2.3.3 Order Placement and Fulfillment
+
+2.3.3.1 Buying Modes Supported
+
+The GeM platform shall provide three primary buying modes and the appropriate use of the
+buying mode shall be indicated by the platform as per the total value of the procurement. The
+three buying modes are Direct Purchase, Direct Purchase with L1 and e-bid/RA. The GeM platform
+shall reserve the right to set the thresholds of transaction value for the applicability of each
+of the buying modes based on the GFR and related guidance issued by Ministry of Finance,
+Government of India from time to time. All decisions related to use of the modes available
+on GeM shall be made solely and exclusively by the buyer with required approvals from the
+competent authorities.
+
+Direct Purchase and Direct Purchase with L1
+
+     Direct Purchase mode shall be allowed for low value transactions and shall allow the
+     buyer to directly procure from any available seller on GeM that meets the requisite quality,
+     specification and delivery period as specified by the buyer.
+
+     The Direct Purchase with L1 mode shall be allowed for mid value transactions and shall allow
+     the buyer to directly procure from the L1 seller after comparing all available sellers on the
+     platform that meet the requisite quality, specification and delivery period as specified by
+     the buyer. The comparison must be made between goods/services of at least three different
+     manufacturers/OEMs and three different sellers.
+
+     The GeM platform shall provide buyers with a robust search and filter functionality to enable
+     them to specify their exact requirements. It shall also provide the buyer with the functionality
+     to exercise purchase preference in these modes by providing filters such as Make in India,
+     MSE etc. as per extant Government of India policies and guidelines. The platform shall also
+     recommend buyers to purchase from sellers meeting local content/MSE when the prices are
+     comparable with the market L1 price.
+
+     These modes shall allow buyers to make time efficient purchases and have strict delivery and
+     payment timelines.
+
+E-bid/Reverse Auction
+
+     The E-bid/Reverse Auction mode shall allow buyers to conduct an electronic bid for the
+     goods and services on the platform.
+
+     The creation of bid documents as well as system driven evaluation will be driven through
+     well-defined and standardized technical parameters and the bid terms and conditions.
+
+     The General Terms and Conditions, Special Terms and Conditions and Additional Terms and
+     Conditions provided by the platform shall address the general requirements for floating
+     e-bids/RA on GeM.
+
+     The GeM platform shall provide buyers with the option to customize the bid as per their
+     requirement by way of objective selections. The buyers can raise requirement for further
+     customization of the bid terms and conditions in line with the standardized GeM catalogue
+     This is inline with GeM’s objective of maintaining standardization and objectivity throughout
+13
+the procurement process. All e-bids and RAs on GeM shall be exclusively completed through
+     the GeM platform with no reference to any outside source or links.
+
+     The GeM platform shall provide a system driven evaluation of the bids and identify
+     the shortlisted i.e. responsive bids. While the buyers are suggested to heed the system
+     recommendation, the buyers shall reserve the right to download the evaluation as well as
+     override the system evaluation. In case of offline bid evaluation, buyers shall be required
+     to provide a summary of the outcome on the platform. In certain situations where Quality
+     and Cost Based Selection (QCBS) is absolutely necessary and requires direct interface like
+     presentations and in person consultation, such as hiring of consultant/project buying, the
+     buyers shall appropriately capture the offline steps on the platform as part of bid evaluation.
+
+Proprietary Article Certificate (PAC) Buying
+
+     The GeM platform shall allow buyers to procure on a proprietary basis by using the PAC filter
+     provided on the GeM platform, which allows the selection of a specific model/make from a
+     particular seller that is available on the platform.
+
+     For PAC procurement, Direct Purchase buying mode and bidding/RA buying mode (above
+     threshold value) shall be allowed.
+
+2.3.3.2 Additional Features provided while buying on GeM
+
+2.3.3.2.1 Demand Aggregation                                     This shall help users reduce the need for multiple
+                                                                 orders and shall result in prices that are more
+Demand Aggregation shall allow buyers                            competitive.
+(primary user) to aggregate demand across
+buying teams. For instance, the central                          2.3.3.2.3 Multi-cart
+Ministry can aggregate common or aggregate
+demand across states under a common bid.                         The GeM platform shall provide its buyers with
+Demand aggregation results in better, more                       the multi-cart feature that shall allow the buyers
+competitive prices as the volume of the order                    to have many carts simultaneously. This shall
+placed with the single seller is large thereby                   enable the buyer to save the items in the cart for
+allowing economies of scale. While the bid                       a specified duration. The rates for the specific
+is centralized, orders invoices and payments                     quantity of items held in the cart shall be frozen
+thereon can be assigned to individual and                        for the carting period against any upward revision.
+multiple agencies on GeM. The GeM platform                       However, in case of a downward revision in the
+shall enable demand aggregation services                         offer price of an item in the cart, the revised price
+for identified categories with assured                           shall be made available to the buyer. Validity of
+reasonability of price.                                          the items and offers carted shall be limited for a
+2.3.3.2.2 Bunching / Bundling                                    period of time after which cart shall be emptied
+                                                                 automatically.
+Bunching is a process of buying multiple
+goods in a single order i.e. through a single                    2.3.3.2.4 Proof of Non-availability of Sufficient
+seller whereas bundling is a similar process                     Competition or Unsupported Good/Service
+of buying goods along with related services.
+A significant portion of buying constitutes                      The GeM platform shall be a dynamic online
+purchasing multiple goods / services together.                   marketplace with new categories of goods/
+The GeM platform shall allow bunching /                          services continuously being added. In situations
+bundling of multiple goods / services as per                     where the product/service is not supported on the
+pre-defined categories where sellers selling                     platform or there is insufficient competition basis
+these multiple goods / services are available.                   specifications input by the buyer including            14
+service shall be deemed not available
+        for procurement on the GeM platform
+        and the buyer shall be allowed to
+        procure via the offline mode. In such
+        situations, the buyer shall be allowed
+        to download a report for the purpose of
+        audit and shall allow the buyer to show
+        verifiable proof for procuring outside the
+        GeM platform.
+
+2.3.3.3 Order Fulfillment
+
+
+The GeM platform shall lay down a
+standardized process with definite timelines
+for order fulfillment and provide both buyers
+and sellers with the functionality to track
+the order fulfillment process. The platform
+shall enforce buyers and sellers to adhere
+to the online process, update the required
+information and issue invoices or certificates
+as applicable and in a timely manner.
+
+All key documents for order fulfillment and
+payment such as the purchase/sanction
+order, invoice and bill shall be generated
+by the platform based on user input and
+selections. GeM shall stipulate the timelines
+for the different stages of the process such
+as delivery of the goods/services, generation
+of Provisional Receipt Certificate (PRC)
+and generation of Consignee Receipt and
+Acceptance Certificate (CRAC). Users shall
+be subject to appropriate rating and action
+in case of non-adherence as per GeM policy
+notified from time to time on the portal.
+
+2.3.3.4 Contract Management
+
+
+In keeping with the principles of speed,
+efficiency and minimal manual interference,
+the GeM platform shall auto-generate
+the contract basis the specified technical
+parameters and the details chosen by the
+buyer such as delivery period and delivery
+terms.
+
+
+
+15
+The General Terms and Conditions (GTC),
+Product / Service specific Special Terms
+and Conditions (STC) and Bid / RA specific
+Additional Terms and Conditions (ATC) shall
+be published on the GeM platform. These
+shall constitute the contract generated on the
+platform. The Terms and Conditions stipulated in
+STC will supersede those in GTC, and the Terms
+and Conditions stipulated in ATC will supersede
+those in GTC and STC in case of any conflicting
+provisions. The platform shall provide buyers
+with the functionality to edit the auto populated
+terms and conditions within the overall GeM
+legal framework. GeM shall also provide the
+functionality of updating the contract along with
+version control and audit trail.
+
+2.3.3.5 Payments
+
+
+The GeM platform shall support 100%
+online payments to ensure a truly cashless
+procurement process. This will not only make
+the process efficient but also improve timely
+payment assurance. The platform shall,
+therefore, support multiple online payment
+modes in order to maximize convenience and
+utility for its users. The platform shall also
+support e-EMD and e-PBG to stay true to its
+aspiration of 100% online payments.
+
+
+The GeM platform shall provide users with a
+payment gateway to support internet banking
+as well as allow integratration with the different
+payments systems used by buyers such as Public
+Financial Management System, State GeM Pool
+Account, Controller General of Defense Accounts,
+Centre for Railway Information Systems, Central
+Reserve Police Force Payment System etc.
+Additionally, the GeM platform shall support the integratation of the different ERP systems (SAP/
+Oracle etc.) that are used by the buyers to maximize efficiency and seamlessness. GeM shall lay
+down definite timelines for payment and enforce buyers to adhere to stipulated timelines. In
+order to promote timely payment, GeM shall constantly endeavor towards and encourage pool
+account based payments as the preferred payment mode on GeM.
+
+2.3.3.6 GeM Service levels
+
+As an online system for procurement, GeM service levels shall aim at maximum efficiency in its
+operations from placing a demand to closing with payments on time for contracts fulfilled. Each
+of the steps across transactions shall have specified time for performance by both sellers and
+buyers. All appropriate measures shall be taken to ensure that both buyers and sellers adhere to
+these terms and conditions. These measures shall include ratings (parameters), issuing notices,
+watch list and defaulters being disabled. All actions under this segment shall be notified to all
+users and reflected appropriately for further transactions.
+
+2.3.4 Decision Support
+
+Beyond the cost and time benefits intrinsic to GeM, GeM shall provide its users with additional
+value add by providing decision support that helps them achieve better value-for-money and
+efficiency.
+
+2.3.4.1 Business Intelligence and Analytics
+
+Analytics helps organizations in harnessing their data, and in using it to make more informed,
+evidence-based decisions, which in turn leads to increased operational efficiency and savings.
+The GeM platform shall provide its users with personalized dashboards to track overall
+transactions and the performance of the buying/selling organization and reports for transaction
+summary, payment due, non-adherence of payment/delivery SLAs etc. The platform shall enable
+buyers to monitor the trend of their procurement and adherence to the different directives like
+Make in India and MSME Policy.
+
+Additionally, the GeM platform shall provide the larger ecosystem of users with intelligence
+and analytics on spend trends, registration trends, yearly procurement trends, key goods/
+services etc. which shall help in understanding the procurement landscape in India better and
+making data led decisions. The analysis of the transactional data on the platform shall enable
+the policymakers from MSME and DIPP to recognize key challenges and review and revise
+procurement policies accordingly.
+
+2.3.4.2 Information Visibility
+
+The GeM platform shall provide the buyer with the credentials of the seller such as the financial
+credentials, past experience and preferential seller credentials such as registered MSE or startup.
+The platform shall also ensure visibility for MSE/local sellers and startups. Further, the platform
+will enable sellers to indicate the percentage of domestic content in their goods and services,
+promoting the Make in India order. The platform shall support real-time sharing of information
+relating to all procurement notices through the integration of CPPP.                                 16
+2.3.4.3 Establishing Price Reasonability
+
+While the responsibility to ascertain the reasonability of price for any buying on GeM shall
+rest solely with the buyer, GeM shall provide the buyer with multiple tools to help the buyer
+ascertain price reasonability. This includes the comparison of prices across other e-commerce
+sites (wherever available), discount over MRP, Last Purchase Price on GeM and the prices at
+which transactions have been conducted on GeM for similar items in the recent past. GeM shall
+also incentivize buyers to contribute to the price rigor on the platform by sharing relevant
+information.
+
+2.3.4.4 Buyer and Seller Rating
+
+In a trust-based system like GeM, ratings become a key component in the overall system. GeM
+shall provide a rating system that evaluates performance on a continuous basis based on
+weightages to various parameters. This will reward well-behaving buyers and sellers, incentivize
+good buying behavior and cultivate competition in performance amongst sellers.
+
+2.3.4.5 Vendor Assessment
+
+GeM shall provide the facility for availing services (third party) for Vendor Assessment relating to
+technical / financial capacity and experience including manufacturing/testing facilities/quality
+control arrangement(s) of manufacturing premises. Vendor Assessment to ascertain the quality of
+a product or service will also be provided. Sellers shall be incentivized to opt for the assessment
+as it will be factored into GeM ratings and the product/service will be marked verified which shall
+be a filterable parameter that the buyer can use in their selection process. This will aid buyers in
+the decision-making process.
+
+2.3.4.6 Demand Forecasting
+
+GeM shall forecast demand basis the analysis of historical data on the platform and the data
+provided by buyers as part of their annual procurement plan. This will help sellers plan better
+and in turn ensure availability of required goods/services and lower prices for the buyer.
+
+2.3.5 Quality Assurance
+
+The GeM platform shall do away with some of the traditional quality assurance processes like
+centralized seller registration and verification, advance sampling and inspection. It shall instead
+have a set of internal checks and controls to drive quality on the GeM platform. These shall
+include intrinsic elements across the different modules on the platform such as automated
+validation for registration, standardized templates of technical parameters in the category
+management system, ratings and vendor assessment as part of decision support and watch
+listing and suspension as part the Incident Management policy. Together these shall effect a
+robust quality assurance mechanism.
+
+In addition to the above controls, a Quality Assurance Team will maintain the sanctity of the
+market on the GeM platform. Random checks hall be conducted periodically for verification of
+user accounts and related data, price reasonability, integrity of product and service listings, and
+adherence to the terms and conditions of the platform s.
+
+In order to effectively monitor the health of quality of GeM platform, a Quality Framework will be
+instituted with a set of quality related KPIs. GeM shall regularly publish a quality report based on
+this framework to highlight the progress made on improving quality of the platform.
+17
+2.3.6 Audit Trail
+
+GeM has been envisioned as a trust based system, and this shall be the basis for many decisions
+on the platform. In order to effectively implement this system, GeM shall institute a set of
+internal checks and controls. A key aspect amongst these shall be GeM maintaining an audit trail
+i.e. a securitized chronological record that provides documentary evidence of the sequence of
+activities carried out on the platform during any transaction that takes place on the platform.
+
+The purpose of keeping audit trail in the system is to allow Auditors to evaluate the process
+transparently, and review the choice of filters, data, evaluation criteria and confidentiality
+techniques that are used on the platform. Aufit trail also aims to ensure that fair practices are
+adopted in technical and financial evaluation of bids.
+
+An automated process shall be put into place by GeM to extract logged information generated
+during different stages of procurement transactions on the platform. Using few key fields such as
+contract number, organization name etc. a bid summary sheet that captures different artifacts,
+input/output data and events, can be generated for auditing purposes.
+
+2.3.7 Communication and Support
+
+GeM shall provide a standardized and single channel for communication with stakeholders
+through its contact center and domain mail.
+
+2.3.7.1 Communication to Buyers and Sellers
+
+GeM shall send out communication to keep all stakeholders updated with all relevant changes/
+notices etc. related to GeM. GeM shall use multiple modes to communicate with its users
+depending on the information to be conveyed and its criticality.
+
+GeM shall inform users in the case of new product/service categories being added, end of life
+information, change in technical parameters of goods/services, new bids creation or modification
+etc. GeM shall also from time to time have promotional and marketing events for which related
+communication shall be sent to buyers and sellers. All such information shall also be made
+available on the various social media sites of GeM.
+
+2.3.7.2 Contact Center
+
+GeM shall be supported by a contact center well equipped to handle the different queries
+users may have. The GeM contact center shall support inbound and outbound customer
+communication across different communication channels i.e. telephone, web, chat, email and
+social media. Since the contact center shall service stakeholders across different geographical
+regions in India, it shall support English, Hindi and certain several regional languages. An
+escalation matrix with well-defined SLAs shall be provided to ensure users receive expert help
+as needed. GeM may use all communication (ingoing/outgoing) from the center in case of any
+query/grievance/any other request.
+
+2.3.7.3 Training and Material
+
+Adequate training support and assistance shall be critical for the success of the GeM platform.
+The users of GeM shall not have to face any challenges in using the platform effectively. Thus,
+central and regional training as well as the availability of adequate training material on the
+platform shall be ensured. GeM may design e-procurement certifications and offer trainings to
+certify professionals specialized to procure via the GeM platform.
+                                                                                                   18
+2.3.8 Dispute Resolution and Incident Management
+
+        GeM shall be a trust-based system and hence it shall be extremely critical to support a structured
+        and automated Incident Management process to penalize any deviant behavior. On a platform
+        as large as GeM, disputes between buyers and sellers is bound to occur. While GeM provides the
+        platform facilitating these transactions, GeM shall not have any authority, legal or otherwise to
+        resolve disputes or redress grievances. It shall thus be extremely important to ensure that users
+        are cognizant of the fact that GeM is, at the crux of it all, only a platform and cannot and does
+        not take over the onus of ensuring that every transaction through it is error free and assured.
+        Thus, while GeM shall take administrative action as per the process published, in cases where
+        grievance redressal beyond the platform is required, arbitration process shall be applicable and
+        GeM shall not be a party to this process.
+
+         •   The role of GeM in Incident Management shall be three fold and limited to:
+         •   Making available all the information that may help in the resolution of the dispute.
+         •   Providing notice and reasonable opportunity to the party to provide justification
+         •   Taking appropriate administrative action, limited to the platform, against the buyer or/and
+             seller as the case may be
+
+        GeM shall support a holistic framework for incident management, where deviations on GeM shall
+        be categorized into three levels, namely: mild, serious and severe. An appropriate administrative
+        action shall be administered on a case-to-case basis. The penalty may range from having the
+        deviations recorded against the seller/buyer to blocking or suspending of the defaulting buyer/
+        seller account and a blacklisting recommendation to the Board/Ministry of Commerce.
+
+        2.3.9 Data Security
+
+        GeM shall be responsible to ensure the privacy and security of the data on the platform.
+        Adequate measures shall be taken to ensure that the GeM platform adheres to the highest
+        standards of information security and user privacy.
+
+        2.4 GeM Procurement Guidelines
+Public procurement in India is currently
+guided by multiple well-founded procurement
+guidelines and policies. Since these policies
+were drafted in a time before GeM, they were
+primarily designed in accordance with the
+offline procurement process and not with an
+online marketplace in mind. Thus, certain
+operational design elements of these policies
+may not be entirely relevant on a standardized
+technology-driven platform like GeM. With the
+advent of GeM, it is critical for the essence of
+these policies to be maintained and brought
+together in a comprehensive marketplace
+procurement process that shall apply to all
+procurement on GeM. The GeM procurement
+process is built on fundamental principles of
+
+
+19
+public procurement i.e. transparency, value for
+money and openness of competition. However,
+by virtue of it being a technology-driven
+platform, the mechanism and processes by
+which it achieves these objectives may change
+from the past.
+
+Thus, a set of GeM procurement guidelines for
+operating on GeM shall be drafted and shall
+apply to all buyers and sellers on the platform
+independent of the respective procurement
+policies applicable to them outside of the
+platform. For procurement made on GeM,
+buyers shall abide by the GeM procurement
+guidelines and shall not be subject to
+compliance issues arising from different
+policies that may be applicable to them when
+they procure offline/outside GeM.
+Some of the indicative directives/processes that
+currently exist and shall be re–aligned for the
+GeM context include:
+ •
+
+ •   Minimum three weeks time to be allowed for
+     submission of bids (Rule 161)
+ •   Procurement by Limited Tender Enquiry in
+     cases of urgent need (Rule 162)
+     Evaluation of technical bids to be conducted
+ •   by Competent Authority or Technical
+     Committee (Rule 163,164)
+     Bid Security (EMD) should range between
+ •   two percent to five percent of the estimated
+     value of goods to be procured (Rule 170)
+     Performance Security should be for an
+     amount of five to ten percent of the value
+ •   of the contract as specified in the bid
+     documents (Rule 171)
+     Procurement of services by Limited Tender
+     Enquiry when the value of the services is
+     less than 10 Lakhs (Rule 201)
+Therefore, GeM shall institute a set of
+procurement guidelines for operating on GeM
+that shall apply to all buyers and sellers on
+the platform independent of the respective
+procurement policies applicable to them outside
+of the platform.
+
+Procurement on GeM for all buying entities shall
+be exclusively subject to the GeM guidelines,
+terms and conditions as published by GeM
+on the GeM website, which shall override all
+
+concurrent processes differing from or in conflict
+to the process outlined by GeM. GeM, being a
+technology-driven platform, shall embed certain
+facets of the procurement process in the design
+of the GeM platform. GeM shall provide requisite
+mechanisms needed to comply with the intent of
+the various related central procurement policies
+and guidelines defined by the different domain
+ministries. For procurement made on GeM, buyers
+shall not be subject to compliance issues arising
+
+from different policies that may be applicable
+to them when they procure offline/outside GeM
+and are not applicable on the GeM platform.
+For all circumstances not covered by the GeM
+guidelines, terms and conditions, the buyer shall
+adhere to the General Financial Rules and/or the
+procurement guidelines of the respective entity.
+GeM has been established as the national
+procurement portal. Thereby, GeM shall seek to
+design its procurement process and guidelines in
+adherence to the national level directives from
+the Government. GeM will continuously look to
+new ways of supporting these policies while
+adhering to the design principles intrinsic to GeM.
+All policies relating to various aspects of GeM
+transactions shall be available online and user
+feedback shall be inbuilt on the platform.
+
+        Applicability of the guidelines to services
+
+        It is important to recognize that the assessment of quality for services is a continuum. On one
+        end, there are a set of standard services where complexity is low and quality may be assessed
+        by way of a set of technical specifications. This gives way to slightly complex services, including
+        the bundling of goods and services. In such cases, it may be important for the buyer to establish
+        relevant work experience as a measure of quality. And on the other end, we have project-based
+        buying where quality may be ascertained by multiple aspects such as financial net worth,
+        approach and methodology, and current set of completed and ongoing works. Thus, GeM shall
+        enable the buyer to make an informed decision basis these different criteria and basis where the
+        services lie on the continuum, thereby capturing the essence of Quality and Cost Based Selection.
+
+        Thus, the procurement process for services on GeM, similar to goods, shall be standardized and
+        inbuilt into the system and buyers shall not need to follow any concurrent processes that may be
+        applicable in the offline procurement process.
+
+        Entities covered by the guidelines
+
+        The GeM procurement guidelines shall be issued pursuant to Rule 149 of the General Financial
+        Rules 2017. It has been mandated as per GFR Rule 149 that if a product/service category is           20
+available on GeM, all Ministries and Departments shall procure through GeM. Thereby, the
+guideline shall apply to all Central Ministries and Departments and the respective Central
+Public Sector Enterprises (CPSEs) under them. The guideline shall also be extended to States
+and UTs and the respective State Public Sector Enterprises (SPSEs) and any other Public Sector
+organizations by way of a Memorandum of Understanding (MoU) between GeM and the respective
+entity. The list of entities with which GeM has entered into a MoU shall be published on the
+website and will be continually updated. Thus, the mandate to procure from GeM and the
+applicability of this guideline shall also fall onto all buyers falling under the purview of these
+entities.
+
+All other buyers like autonomous bodies, apex institutes, charities and other entities where
+significant government funding is received shall be recommended to use GeM for the
+procurement of goods and services to the extent possible and follow the guidelines stipulated
+herein. A detailed description of GeM procurement guidelines has been covered as part of
+Appendix B.
+
+2.5 Monetization on the GeM Platform
+2.5.1 Introduction
+
+GeM has been setup as a Section 8, not for profit organization. Beyond the initial grant of Rs 200
+Cr, GeM is expected to self-sustain its operations. GeM will thus need a means of sustenance for
+the organization and its marketplace platform. A monetization model to generate revenue, to
+create and cover the following cost elements to sustain operations, shall be required:
+
+     1. Technology and Platform cost - Payout to the Managed Service Provider (MSP)
+     2. Personnel Cost – Cost of personnel including Performance Linked Incentives
+     3. Marketing Expenses – Expenses incurred in spreading awareness and increasing
+     engagement on GeM
+     4. General and Admin Expenses – Day-to-day operations expense including contractual
+     services
+     5. Innovation & Grievance Redressal Fund – Funds for growth and innovation or unexpected
+     exigencies
+
+Objectives of the revenue model – The key objectives of the revenue model shall be to:
+
+     1.  Recover costs and self-sustain GeM
+     2.  Generate funds to fuel innovation and growth
+     3.  Maintain a corpus/buffer for windfall changes
+
+Multiple potential monetization streams exist for GeM and may be applied such as one
+time fees like registration fee or listing fee and recurring fees like annual fee, transaction
+fee, paid advertisements, value- added services fee etc. GeM shall have the remit to alter the
+revenue generation mechanism in terms of the sources that it chooses to monetize and the
+quantum of the charge or fee it fixes. In addition, the revenue model shall be leveraged to drive
+desired market behavior among buyers and sellers by means of incentives and penalties and
+help achieve GeM marketplace objectives.
+21
+A two-fold revenue model may be instituted for GeM
+
+1. Transaction fee model - Primary model for revenue generation and cost recovery.
+
+2. Behavior-based incentives model – Incentives/disincentives based on specific user behavior
+to help achieve GeM marketplace objectives.
+
+2.5.2 Mechanism of Revenue Generation
+
+2.5.2.1 Primary Revenue Generation Model
+
+Key elements of the transaction charge model are as follows:
+
+     Since GeM provides a platform for both buyers and sellers to conduct transactions, both
+     buyers and sellers may be charged a small % of their transaction value as transaction fee.
+     Sellers may be charged more than buyers in line with the value they derive out of GeM in
+     terms of ease of doing business with the Government .
+
+     GeM may also exercise its option to charge transactions only above a certain minimum
+     threshold transaction value or it may lay a differential charge on different thresholds of
+     transaction values. This shall be designed in accordance with the premise that the user
+     willingness to pay will be higher in big-ticket transactions. This shall also ensure higher
+     feasibility of implementation and revenue realization for GeM.
+
+     GeM may also explore categorizing product and service categories basis their margin potential
+     into buckets such as High, Medium, and Low margin potential. Higher margin categories may
+     be charged a relatively higher % of the total transaction as there shall be higher willingness
+     to pay for sellers.
+
+     Thus, a transaction fee matrix, clearly laying out the charges applicable on buyers and sellers
+     across types of goods and services and across ranges of transaction value, shall be developed
+     and deployed on a periodic basis. This matrix shall be designed as per cost recovery
+     principles and shall be revised periodically depending on how revenue tracks against the
+     costs.
+
+2.5.2.1 Behavior-Based Incentives
+
+Registration Fees and Listing Fees shall serve as secondary revenue generation streams
+wherein the primary aim of levying these charges shall be to drive right market behavior and
+incentivize/disincentive the participants in line with the marketplace objectives.
+
+A one-time registration fee for sellers shall help maintain the sanctity of the seller base and
+drive a sense of discipline in the registration process, prevent sellers from creating multiple,
+unnecessary accounts and reduce the number of inactive sellers in the system since only
+serious sellers register. Similarly, sellers shall be charged a small listing fee i.e. a fee for every
+time the seller wishes to list a new product or service. The fee shall be minimal with the primary
+objective being to maintain the sanctity of the marketplace and ensure discipline in the listing
+process.
+
+                                                                                                        22
+A few illustrative incentive schemes are as follows:
+
+                 Product Upload - To incentivize correct listing process, sellers who make 10 error free
+                 listings consecutively can be allowed to make the next 5 listings for free i.e. no listing fees
+                 will be levied.
+
+                 Pricing - To incentivize competitive discounting, top sellers that offer the maximum discount
+                 on a monthly basis can be given one month of charge free transactions. The rules and
+                 incentives shall be changed from time to time depending on desired behaviors to be driven
+                 through the marketplace.
+
+    3. GeM Organisation
+                  (GeM SPV)
+
+
+
+As stated earlier, the Government e Marketplace
+Special Purpose Vehicle (GeM SPV) has been set up
+to develop, manage and maintain the GeM platform.
+To be able to successfully deliver the GeM platform
+as described above, it is critical for the GeM
+organization to have a clearly defined strategic and
+operating model in place.
+
+
+
+
+ii. Establish a lean, dynamic
+organization capable of
+continuous innovation and
+market driven decision making.
+iii. Build an easy to use, fully
+automated, trust based platform
+to ensure transparency and
+efficiency in procurement.
+
+iv. Demonstrate commitment to
+delivering value by ensuring right
+quality at right price.
+
+
+3.1 Vision, Mission and Values for GeM SPV
+
+
+
+In line with the founding principles of GeM, as laid down
+by the Cabinet Note dated 7th April 2017, the vision for
+GeM articulates the aspiration that GeM shall seek to
+achieve. The vision for GeM is thus stated as:
+
+“To effect an evolution in public procurement promoting a
+transparent, efficient and inclusive marketplace”
+
+The mission statements lay down the operational facets of
+what the GeM SPV shall do in order to realize GeM’s stated
+vision. The five mission statements for the GeM SPV are
+laid down as:
+
+i. Institute a unified procurement policy to encourage
+behavioral change and drive reform.
+
+v. Create a sustainable ecosystem
+
+covering all stakeholders and
+driving inclusive development in
+India.
+
+The values for GeM SPV are
+intrinsic to the identity it aspires
+to build. These values are in line
+with the beliefs that are core to
+the GeM organization and its key
+stakeholders. The values system
+that GeM shall thus subscribe
+to can be explained by a set
+of seven fundamental values.
+These are: Innovate to Simplify,
+Ownership and Accountability,
+Be Bold and Think Big,
+Responsiveness, Commitment,
+Transparency and Integrity and
+Social Inclusion.
+
+        23
+3.2 Organization Structure
+Any typical e-commerce marketplace needs to support 6 key processes:
+
+     • Buyer related processes (e.g. training and onboarding, key account management)
+     • Seller related processes (e.g. category management, pricing)
+     • Platform related processes (e.g. analytics and reporting, customer care)
+     • Strategy related processes (e.g. business planning, partnerships and alliances)
+     • Technology related processes (e.g. product development, data warehousing)
+     • Internal support processes (e.g. HR, finance, legal support)
+
+In order to execute these processes efficiently, it is important for GeM SPV to have a well-defined
+organization structure which is lean, dynamic and market linked. This organization should
+have capabilities to build and maintain the platform and fulfil the GeM vision. Therefore, GeM
+SPV organization structure has been designed in accordance with best practices from global
+benchmarking e-procurement, e-commerce players (such as Amazon, ChileCompra, GeBIZ and
+KONEPS). GeM SPV CEO’s organization will have 5 key functions: Marketplace, Technology, Strategy
+and Planning, HR and Admin and Finance. In addition, the organization will also house Centers of
+Excellence5 to play advisory role on select topics of strategic importance/academic research.
+
+Given government procurement involves multi-crore rupee transactions on a daily basis, it is also
+important for GeM to be able to execute its operations with utmost transparency. Therefore, GeM
+SPV will also house an Ombudsman. A detailed organization structure has been developed and
+has been adopted by the Board as of 5th April 2018.
+
+3.2.1 Model for Talent Acquisition
+
+The Cabinet Note lays down provisions for multiple sources for GeM to build the required
+capability and talent:
+
+1. Government employees:
+     Government employees hired as full-time employees of GeM SPV.
+
+2. Market employees:
+     SPV Market: Market employees hired for critical roles as full-time employees of the GeM SPV
+     PMU: Market employees hired on a contractual basis as part of the Project Management Unit
+     of the GeM SPV
+
+3. Managed Service Provider:
+     GeM shall engage a Managed Service Provider (MSP) to deliver the technical and certain
+     operational capabilities of the online marketplace platform.
+
+In order to scientifically identify the right sourcing mechanism for various roles, a two-pronged
+approach shall be followed:
+
+1. Strategic Importance or Criticality: Only the most critical roles shall be hired permanently into
+the SPV whereas other roles shall be hired on a contract basis in the PMU
+
+2. Specific Skillset Requirement: Given that GeM SPV aspires to build a world-class e-procurement
+marketplace, many specific technical and operational skillsets are required. Such specific skillsets
+shall be sourced from the market.
+
+                                                                                                         24
+5  A detailed document has been prepared that details the process to be followed in setting up the CoEs
+Since the GeM SPV aspires to be a dynamic, market-linked organization capable of continuous
+ innovation and market-driven decision-making, the GeM SPV shall maintain a healthy balance
+ of Government and market sourced employees as per talent the strengths and capabilities
+ required.
+
+ 3.2.2 Organization Strength
+
+ Role of a Managed Service Provider (MSP) has been envisaged at GeM to deliver the technical &
+ operational capabilities of the online marketplace platform. However, in order to cater to the
+ other elements of the complete ecosystem (such as Buyers, Sellers, Institutional Partners etc.)
+ and address all other organizational aspects (such as Strategy, HR, Admin etc.), a significant
+ workforce will need to be recruited by the GeM SPV. In addition, workforce will also be required
+ to monitor the deliverables of the MSP.
+
+ The GeM SPV has received the approval to build a 200 – 250 member organization (full-time
+ employees + contracted PMU employees) by FY 21. Beyond that, the scale and structure of the
+ organization shall depend on the growth of GeM and the evolution of the scope of GeM.
+
+ 3.3 Functioning of the GeM SPV
+3.3.1 Key Activities to be conducted 6
+
+ For effective functioning of the GeM SPV, the following 8 key activities shall be conducted as per
+ detailed process maps that have been developed.
+
+ 1. Annual Business Plan
+ 2. Quarterly Business Plan
+ 3. Buyer Health
+ 4. Seller Health
+ 5. Order Fulfillment
+ 6. Marketplace Health
+ 7. New Product Innovation
+ 8. New Business Initiatives
+
+ 3.3.2 Key Capabilities Required7
+
+To drive meaningful business results at GeM, and basis benchmarking of similar organizations
+as well as priorities of GeM SPV organization, 12 key capabilities have been identified that GeM
+SPV shall actively work towards building/acquiring to deliver on its goals.
+
+  6  A detailed document has been prepared that details the 8 key activities along with the high level process to be followed
+  along with the RACI matrix
+
+  7 A detailed document has been prepared that details the steps that GeM SPV should take in order to develop these
+  capabilities
+
+ 25
+S.No
+          Key Capability
+                                             Description
+ 1.       Market/Pricing                     Market intelligence to ensure value for stakeholders i.e. right quality at the right
+          Intelligence                       price through extensive pricing benchmarks and knowledge.
+
+ 2.       Policy Creation &                  Development and maintenance of unified marketplace procurement policy
+          Maintenance                        applicable to all buying on GeM to enable standardized e-procurement.
+
+ 3.       Contract Management                Framing, execution and monitoring of contracting through the platform
+
+ 4.       Product Development                Agile and robust product development process
+
+ 5.       Payments Integration               Seamless online payment integration
+
+ 6.       Advanced Analytics                 Strong analytics engine, techniques (e.g. AI) to ensure data-led automation
+                                             (demand forecasting, product recommendations, demand aggregation etc.)
+
+ 7.       Process Definition &               Internal systems and monitoring mechanisms to ensure tightly run business
+          Monitoring                         process with well-defined roles and responsibilities
+
+ 8.       Customer Centricity                World-class customer care, registration, training and onboarding procedures to
+                                             ensure a seamless experience for buyers and sellers while using the platform.
+
+ 9.       Collaboration                      Collaboration with buyers and sellers to identify improvement
+                                             opportunities
+
+ 10.      Execution Focus                    Strong focus on execution through quick decision making and prioritization
+
+ 11.      Adaptability                       Flexible organization to readily adjust to scale and market requirements
+
+ 12.      Policy Implementation              Implement, rollout and monitor compliance to marketplace procurement policy
+
+ 3.3.3 Centers of Excellence
+
+ In order to build sustainable capabilities and achieve its long-term aspirations, GeM shall create
+ Centers of Excellence (CoE) within the organization. These centers will serve as think tanks on
+ matters of strategic relevance to GeM in line with its Vision, Mission and Goals. The focus areas
+ of these CoEs may be revised from time-to-time based on changing strategic imperatives for the
+ organization. For a topic / subject area to be deemed fit for the creation a CoE, it must fulfil the
+ following pre-requisites:
+
+ a.   It should be a matter of strategic relevance to GeM in the long term, in line with GeM’s
+ vision, mission & goals
+ b.   It should help foster innovation in areas outside day-to-day mandate of GeM teams
+ c.   It should have sufficient scope to leverage partnerships or collaborations to source relevant
+ expertise
+
+ A PoC driven approach may be taken to formulate CoE topics. To continuously innovate and
+ enhance the efficiency of the marketplace, GeM may carry out several PoCs within its teams
+                                                                                                                                   26
+from time to time. Some of these PoCs may prove to have the potential for significant impact
+on the GeM ecosystem in the long term, and may require dedicated research and development
+effort. Such PoCs may be considered as potential CoE topics / subject areas.
+
+A pipeline of such topics / subjects that may be suitable for creation of a CoE shall be reviewed
+periodically for consideration of creation of a new CoE. The periodic review mechanism shall also
+provide the opportunity to augment existing CoEs basis the progress made by them.
+
+A CoE shall have an independent budget and well defined KPIs for performance monitoring. A
+detailed set of guidelines shall be established by GeM to lay out the following key contours for
+setting up and running CoEs:
+
+     • Determining the budget and KPIs for the CoE
+     • Mechanism to identify partners for collaboration
+     • Rules of engagement with CoE partners
+     • Criteria to determine minimum and maximum lifespan for a CoE
+3.3.4 Third Party Services and Support Processes
+
+GeM shall additionally leverage third party services in certain areas of catalogue creation, market
+sanitization, support services and process audit and in continued services like information
+security related services, penetration testing and vulnerability testing.
+
+For the critical supporting functions of HR and Finance, detailed HR Manual and Financial Manual
+have been developed and approved by the Board of GeM. The GeM SPV shall adhere to the basic
+set of rules and policies that have been laid out as part of these manuals.
+
+3.4 Governance Structure
+3.4.1 Equity Structure
+
+As per the Cabinet Note dated 7th April 2017, GeM equity structure has been outlaid as 100%
+Government owned with a capital infusion of INR 200 crores over FY’18 and FY’19.
+
+The equity structure affects multiple aspects of the organization such as the strategic plan,
+speed of decision-making and capital and talent sourcing. Therefore, going ahead the
+competent authority may decide on the appropriate equity structure basis its impact on larger
+organization goals that are to be achieved.
+
+3.4.2 Board of Directors
+
+GeM SPV Board of Directors shall play a critical role in guiding and shaping the journey of GeM.
+Since GeM requires expertise from different domains such as policy-making, technology and
+e-commerce, the Board of Directors for GeM SPV shall be designed basis the required expertise.
+
+Four Board sub-committees shall be instituted: Audit incl. Cybersecurity, HR, Nomination &
+Remuneration Policy, Procurement Policy & Fraud Avoidance and Technology and Innovation
+
+27
+3.4.2 Advisory Council
+
+The advisory council for GeM SPV shall be sourced from relevant fields like public policy experts,
+procurement experts, global e-procurement or e-commerce entities and shall enable it to:
+
+  •  Draw on the skills and knowledge of experts who have practical experience in a specific area
+  •  Receive unbiased guidance due to lack of involvement in the business operation
+  •  Fill in any gaps in the organization and ensure critical business functions are being
+     addressed
+  •  Create a potential source of members for the ‘main’ board as the company grows
+  •  Enhance reputation and credibility in the marketplace
+  •  Increase consumer and stakeholder confidence
+
+                4. GeM Stakeholders Ecosystem
+4.1 Key Role and Responsibilities: Buyers
+Platform Terms and Conditions
+Buyers shall be responsible to remain updated with and adhere to the General Terms and
+Conditions and all other terms, conditions, policies and guidelines published on the GeM
+platform.
+
+Information Disclosure
+Buyers shall be responsible for ensuring that all information submitted on the platform by
+them is true and complete in all aspects.
+
+Procurement Process
+Buyers shall be responsible to ensure that procurement is done in compliance with the
+guidelines of the marketplace (including adherence to the timelines on order fulfillment and
+payment) and the General Financial Rules and other procurement policies/guidelines notified
+by the government from time to time as applicable when procuring on the GeM. Buyers shall
+also be responsible for ensuring appropriate use of the search and shortlisting functionality
+i.e. the buyer should use the filters provided for direct purchase appropriately and make
+selection basis the requirement.
+
+Price Reasonability
+The responsibility to ascertain the reasonability of price for all buying on GeM shall rest
+solely with the buyer. While GeM shall support multiple tools to help the buyer ascertain price
+reasonability, buyers must also use the Last Purchase Price as recorded by the buying entity in
+ascertaining price reasonability. In case of anomalies, buyers are expected to inform the GeM
+SPV and provide all details related to the more economical alternate source of procurement
+so that appropriate action can be taken to ensure that price reasonability is restored for all
+future transactions.
+
+Procurement outside GeM
+Buyers shall be responsible to ensure that GeM prices are not used for procurement outside
+                                                                                                    28
+of GeM i.e. to avoid entering into any offline contract with the seller directly based on the
+outcome of e-bid/RA conducted on GeM.
+
+Annual Procurement Plan
+Buyers shall be responsible to provide a projection of their annual demands in the format
+prescribed by GeM indicating required goods/services along with the specification, quality,
+quantity, consignee location and time of requirement etc. at the beginning of the financial year.
+This is as per Rule 149 (vi) of the GFR 2017.
+
+Demand Splitting
+Buyers shall be entirely responsible to prevent any misuse of the platform by means of splitting
+the demand and shall ensure that the right buying mode is used. Demand splitting for the
+purpose of using Direct Purchase instead of e-bid/RA or for avoiding the necessity of obtaining
+the sanction of higher authority shall not be permitted. This is as per Rule 149 (viii) of GFR 2017.
+
+4.2 Key Role and Responsibilities: Sellers
+     • Platform Terms and Conditions
+     Sellers shall be responsible to remain updated regarding and adhere to the General Terms
+     and Conditions and all additional terms, conditions, policies and guidelines published on
+     the platform.
+
+     • Information Disclosure
+     Sellers shall be responsible for ensuring that all information submitted on the platform
+     is true and complete in all aspects and shall ensure that they possess key requisites for
+     conducting business.
+
+     • Product/service Listings
+     Sellers shall be responsible for ensuring that all statements and claims in their listings are
+     true and complete and are complaint with GeM Terms and Conditions and the applicable
+     provisions of law.
+
+     • Maintaining Integrity
+     Sellers shall be responsible for ensuring that the price(s) offered are reasonable and to take
+     all measures.
+
+4.3 Interfacing with Other Key Stakeholders: Guiding Principles of Collaboration
+E-Governance has been one of the biggest agenda items in our country. Over the years, a
+large number of initiatives have been undertaken by various State Governments and Central
+Ministries. GeM is one such key mega-scale initiative that in the long run shall make
+significant impact on efficient spending and thus productivity of our country.
+
+GeM shall interact with and have inter-dependencies on multiple stakeholders ranging from
+the likes of UIDAI, MCA 21, Banks and other financial institutions to the different monitoring
+and vigilance entities such as CVC, CGA. In today’s landscape of rapidly evolving digital
+disruptions and the challenges posed by related complexities, collaboration between GeM
+
+29
+and these different entities shall thus be critical to ensure the success of GeM. The guiding
+principles for collaboration between GeM SPV and its partners shall be threefold:
+
+     i. Shared objectives: Partnerships shall be guided by a shared vision and purpose that builds
+     trust and recognizes the value and contribution of each member. GeM SPV and its partners
+     shall strive to set up clear objectives and goals that define the success of the partnership.
+
+     ii. Effective information sharing: The exchange of information and best practices is an
+     extremely important aspect of collaboration. GeM SPV and its partners shall endeavor to
+     institute seamless data sharing and actively explore how the shared information may be
+     used effectively.
+
+     iii. Continuous communication: Effective partnerships are built on trust, openness, and
+     communication. For effective collaboration, both parties shall take measures to remain
+     updated with the others’ plans, objectives, and risks that may have consequential effects on
+     the other party.
+
+4.3.1 Collaboration with the Central Ministries
+
+The Procurement Policy Division’s Office Memorandum dated 19.9.2017 notifies the constitution
+of Standing Committee of GeM (SCoGeM) for guiding, coordinating and reviewing the use of GeM.
+Thus, each Ministry shall constitute a Standing Committee that GeM SPV shall interface with on
+different elements such as identification of products and services that GeM should support,
+monitoring of timely payments, organizing trainings and monitoring the use of GeM by the
+different bodies under the Ministry.
+
+4.3.2 Collaboration with State Governments and Union Territories
+
+The State Governments and Union Territories account for a significant portion of the public
+procurement in India. It shall be important for GeM to onboard all the state governments, UTs
+and their affiliated bodies. In this respect, GeM SPV shall sign Memorandums of Understanding
+(MoUs) to enable the State Governments and UTs to make use of GeM for procurement of goods
+and services. Additionally, as stated in 4.3.1, each State shall constitute a Standing Committee
+that GeM SPV shall interface with on the different elements of GeM.
+
+4.3.3 Collaboration with Public Sector Units (PSUs)
+
+Public Sector Units (PSUs) account for a significant portion of the public procurement in India
+and hence it is of paramount importance for GeM to onboard all PSUs in the country. In this
+respect, GeM SPV shall actively seek to collaborate and work together with major PSUs to
+understand their requirements and make their transition to GeM seamless.
+
+4.3.4 Roles and Responsibilities of Other Stakeholders
+
+The other stakeholders that shall interact with GeM can be categorized into three types:
+Monitoring and Vigilance, Operations, Payments.
+
+                                                                                                    30
+4.3.4.1 Monitoring and Vigilance             4.3.4.2 Operations
+
+The two key entities for monitoring and
+vigilance are Central Vigilance Commission
+(CVC) and Comptroller and Auditor General
+(CAG). The primary objectives behind
+GeM’s inception are highly aligned with the
+objectives of these entities. Transparency
+and openness are at the heart of GeM and
+thereby there exists great potential for
+collaboration between GeM SPV and these
+parties.
+
+ •   GeM SPV shall ensure that the platform
+     has adequate internal checks and a
+     robust system of audit trail thereby
+     facilitating auditors to assess and
+     evaluate the processes, evaluation
+     criteria and confidentiality techniques
+     followed by different buyers.
+
+ •   GeM SPV will be privy to a large amount
+     of buyer data, which will have multiple
+     applications in monitoring and vigilance,
+     helping the stated parties in identifying
+     irregularities effectively
+ •
+     GeM SPV shall also commit to extend
+     complete support to the extent possible
+     in case of any conflict or inquiry related
+     to any transaction on the platform
+
+At the same time, the stated parties shall be
+required to work with GeM SPV to realign the
+rules for procurement on GeM. Additionally,
+the stated entities shall ensure that GeM SPV
+is notified and consulted before the creation
+of any new rules or process guidelines, which
+may impact the GeM platform or any related
+processes of buying / selling on the GeM
+platform.
+
+
+
+31
+An integral part of GeM’s value proposition
+lies in its automated trust based processes. To
+enable this, GeM SPV has been partnering with
+various entities, both Government and private,
+to allow effective data sharing and validation.
+The resulting environment shall be a complex
+mix of applications and architectures that shall
+result in the necessity for the various entities to
+collaborate with each other to ensure seamless
+operations. Such key entities include Unique
+Identification Authority of India (Aadhaar),
+Goods and Service Tax Network (GSTN), Income
+Tax Department (PAN), Department of Industrial
+Policy & Promotion (DIPP), Ministry of Micro
+Small and Medium Enterprises (MSME), MCA21,
+Controller of Certifying Authorities (CCA) -
+e-Sign, DigiLocker etc.
+
+Since GeM SPV shall integrate procedures on its
+system with these entities, it is necessary for
+these entities to remain cognizant of the fact
+that any changes or risks that they encounter
+may affect GeM. Thus, GeM SPV shall establish
+effective means for secure data sharing and
+continuous communication with these entities.
+
+4.3.4.3 Payments
+
+As stated previously, GeM aspires to move
+to 100% online payments to ensure a truly
+cashless procurement process. GeM SPV
+shall require the support of different banks
+to be able to achieve this aspiration. In this
+regard, GeM SPV shall actively seek to sign
+Memorandums of Understanding (MoUs) with
+banks to collaborate and work together.
+GeM shall work together with the banks to make
+available integrated e-payment systems for
+collection and transfer of payments/e-Earnest
+Money Deposit (EMD)/e-Performance Bank
+Guarantee (PBG), fees and charges and any
+other transactions that may be needed.
+5. Appendix
+
+  5.1 Appendix A - Templates for GeM scoreboards
+
+  Template for scoreboard to be published on the platform
+
+                                                                   Previous Month  Current Month  % Change
+
+GMV (Monthly)
+Number of buyers and sellers
+Number of product and service categories
+% orders with delivery and payment within time &
+ageing
+% savings achieved
+Number of unfulfilled or cancelled orders
+Number of disputes/incidents registered and
+resolved with ageing
+
+  Template for scoreboard to be sent to Secretaries and Chief Secretaries
+
+                                                                   Previous Month  Current Month  % Change
+
+Overall GMV (monthly)
+Number of buyers and sellers
+Number of product and service categories
+Ministry/State wise statistics
+GMV (monthly)
+Number of buyers
+Number of sellers
+Number of product and service categories procured
+% orders with delivery and payment within time &
+ageing
+% savings achieved
+Number of unfulfilled or cancelled orders
+Number of disputes/incidents registered and
+resolved with ageing
+                                                                                                            32
+5.2 Appendix B - GeM Procurement Guidelines
+
+5.2.1 Preface: Role of Government e Marketplace (GeM) in Public Procurement
+
+GeM aspires to effect an evolution in public procurement promoting a transparent, efficient
+and inclusive marketplace. GeM uses modern technology and enablers and brings together
+all government buyers on a unified online platform for the procurement of commonly used
+goods and services. GeM reduces manual process inefficiencies in procurement and provides a
+paperless and cashless e-marketplace with a streamlined, consistent process for all users.
+
+The nature of the platform is characterized by three core elements
+
+  •  Openness: GeM shall be an open marketplace wherein it promotes access to information and
+     transparency. Relevant information on sellers, products, and services shall be easy to find and
+     readily available for both buyers and sellers. GeM shall provide data-based insights to help
+     users in decision-making and ascertaining price reasonability.
+
+  •  Fairness: One of GeM’s key objectives is to allow sellers, big and small, to gain direct access
+     to Government buyers. In doing so, GeM will ensure that all sellers are treated fairly. GeM
+     will not offer preferential or promotional treatment to one seller over the other and shall
+     ensure that all sellers are provided with a level playing field. This will ensure the health and
+     competitiveness of the marketplace.
+
+  •  Inclusive: GeM promotes inclusion, which means that all Government buyers and sellers are
+     accepted on the platform. GeM aspires to create a robust seller base and all sellers interested
+     in conducting business with the Government shall be welcomed on the platform. For buyers
+     and sellers that do not have the know-how of using GeM, GeM shall provide additional
+     assistance in the form of focused training, onboarding sessions and continued feedback and
+     support.
+
+In the evolving procurement process in the country, it is useful to reiterate GeM’s role. GeM shall
+not be a managed marketplace but shall focus solely on being a platform for Government buyers
+to meet sellers and conduct business. It shall neither own the goods and services sold through
+the platform nor own the supply and logistics of goods and services transacted on it. GeM shall
+be a trust-based portal where the buyer holds the responsibility to ensure value for money in any
+purchase made and the seller holds the responsibility to ensure the accuracy and integrity of all
+information shared.
+
+5.2.2 Applicability
+
+These guidelines are issued in pursuant to Rule 149 of the General Financial Rules 2017. It has
+been mandated as per GFR Rule 149 that if a product/service category is available on GeM, all
+Ministries and Departments shall procure through GeM. Thereby, these guidelines shall apply
+to all Central Ministries and Departments and the respective Central Public Sector Enterprises
+(CPSEs) under them. These guidelines shall also be extended to States and the respective State
+Public Sector Enterprises (SPSEs) by way of a Memorandum of Understanding (MoU) between
+GeM and the respective entity. The list of entities with which GeM has entered into a MoU shall
+be published on the website and will be continually updated. Thus, the mandate to procure from
+GeM and the applicability of these guidelines shall also fall onto all buyers falling under the
+purview of these entities.
+
+All other buyers like autonomous bodies, apex institutes, charities and other entities where
+
+33
+significant government funding is received are recommended to use GeM for the procurement of
+goods and services to the extent possible and follow the guidelines stipulated herein.
+
+5.2.3 Need for Marketplace Guidelines
+
+Public procurement in India is currently guided by multiple well-founded procurement
+guidelines and policies. Since these policies were drafted in a time before GeM, they were
+primarily designed in accordance with the offline procurement process and not with an online
+marketplace in mind. Thus, certain operational design elements of these policies may not
+be entirely relevant on a standardized technology-driven platform like GeM. With the advent
+of GeM, it is critical for the essence of these policies to be maintained and brought together
+in a comprehensive marketplace procurement process and guidelines that shall apply to all
+procurement on GeM. The GeM procurement process is built on the fundamental principles
+of public procurement: that of transparency, value for money and openness of competition.
+However, by virtue of it being a technology-driven platform, the mechanism and processes by
+which it achieves these objectives may change from the past.
+
+Thus, a set of GeM procurement guidelines for operating on GeM shall apply to all buyers and
+sellers on the platform independent of the respective procurement policies applicable to
+them outside of the platform. For procurement made on GeM, buyers shall abide by the GeM
+procurement guidelines and shall not be subject to compliance issues arising from different
+policies that may be applicable to them when they procure offline/outside GeM.
+
+Some of the indicative directives/processes that currently exist but are not relevant or
+appropriate while transacting on the marketplace (GeM) include:
+     • Mandate for all Ministries and Departments to publish all tender enquiries and details of
+     bid awards on CPPP (Rule 159, Rule 201).
+     • Minimum three weeks time to be allowed for submission of bids (Rule 161).
+     • Procurement by Limited Tender Enquiry in cases of urgent need (Rule 162).
+     • Evaluation of technical bids to be conducted by Competent Authority or Technical
+     Committee (Rule 163,164).
+     • Performance Security should be for an amount of five to ten percent of the value of the
+     contract as specified in the bid documents (Rule 171).
+     • Procurement of services by Limited Tender Enquiry when the value of the services is less
+     than 10 Lakhs (Rule 201).
+
+5.2.4 GeM Procurement Guidelines
+
+GeM has been established as the national procurement portal. Thereby, GeM shall seek to
+design it’s procurement process and guidelines in adherence to the national level directives
+from the Government. GeM will continuously look to new ways of supporting these policies
+while adhering to the design principles intrinsic to GeM. All policies relating to various aspects
+of GeM transactions are available on line and user feedback is inbuilt on the platform.
+
+Some of the new processes and mechanisms by which GeM shall support the objectives of the
+central directives have been detailed below:
+
+i. Information visibility: Providing buyers with adequate information ensuring visibility for
+MSE/local sellers and startups. Further, GeM will enable sellers to indicate the percentage of
+domestic content in their goods and services, promoting the Make in India order.
+ii. CPPP Integration: Ensuring real time sharing of information relating to all procurement
+notices and results.
+iii. Decision Support: Ratings on GeM provide complete information about buyers, sellers, and
+                                                                                                    34
+products (including price history) online based on GeM transaction history.
+iv. Monitoring and reporting: GeM shall provide buyers with dashboards and reports to monitor
+the trend of their procurement that may help them with adherence to the different directives.
+v. Data based insights: The analysis of the transactional data on GeM may enable the
+policymakers from MSME and DIPP to recognize key challenges and review and revise
+procurement policies accordingly.
+
+Procurement on GeM for all buying entities will be exclusively subject to the GeM guidelines, terms
+and conditions as published by GeM on the GeM website, which shall override all concurrent
+processes differing from or in conflict to the process outlined by GeM. GeM, being a technology-
+driven platform, has embedded certain facets of the procurement process in the design of the GeM
+platform. GeM shall provide requisite mechanisms needed to comply with the intent of the various
+related procurement policies and guidelines defined by the different domain ministries. However,
+it will be incumbent as buyers to ensure compliance with GeM’s guidelines, terms and conditions.
+For all circumstances not covered by the GeM guidelines, terms and conditions, the buyer should
+adhere to the General Financial Rules and/or the procurement guidelines of the respective entity.
+
+These key facets have been detailed below. Detailed SOPs for the processes (as amended from
+time to time) shall be published on the GeM website.
+5.2.4.1 Qualifications and credentials of Sellers/Service Providers
+
+By integrating with different Government databases and third-party entities, GeM shall provide
+the buyer with the credentials of the seller such as the financial credentials, preferential seller
+credentials such as registered MSE or startup and product or service assessment (Vendor
+Assessment). GeM shall also provide a seller rating system that evaluates a seller’s performance on
+a continuous basis based on weightages to various parameters that capture quality, reliability and
+actual performance. Thus, GeM provides a decision support system for qualifying seller credentials
+by way of the different filters on the platform. GeM shall enable the buyers to customize the
+credentials needs as per their specific requirement.
+
+5.2.4.2 Standardization of Technical Specifications/Parameters
+
+The technical specifications constitute a critical aspect of public procurement. One of the key
+facets of GeM is the standardization of these specifications/parameters. GeM shall provide
+standardized templates of technical parameters (TP), for both products and services, designed to
+maximize objectivity.
+
+GeM shall ensure that these parameters are demand driven, market-aligned, consultative and
+dynamic. Demand-driven means that these parameters will be designed keeping in mind the
+buyers’ requirements. Market aligned means that the parameters will be guided by market
+knowledge and market trends.
+
+Consultative means that GeM shall consult its buyers, sellers and the respective domain experts as
+needed to ensure that the TP is designed comprehensively. Dynamic means that GeM shall update
+and revise the TP as per the changing needs of the buyer and the market.
+
+This standardization of parameters is the principal virtue of GeM that differentiates it from the
+prevalent offline processes and systems. This lends itself to GeM being a fair, open and brand
+agnostic platform. In addition, while procuring on GeM, buyers shall not need to invest the time
+35
+or effort required in identifying the right list of parameters that comprehensively constitute the
+product or service.
+
+The standardized parameters also result in standardization of the evaluation mechanism.
+Thus, obviates the need to set up a Technical Evaluation Committee or Consultancy Evaluation
+Committee while procuring on GeM.
+
+In a scenario where the buyer finds the Technical Parameters defined on GeM for any product
+or service as not sufficiently comprehensive and requires parameters to be either added or
+modified, the buyer should inform GeM SPV of its requirements. SoP for such upgrades and
+updates of TP of GeM catalog will be dynamic and evolving, without compromising on the need to
+keep GeM catalog generic at all times.
+
+5.2.4.3 Price Reasonability
+
+GeM shall provide the buyer with multiple tools to help the buyer ascertain price reasonability
+such as comparison of prices across other e-commerce sites (wherever available), discount over
+MRP, Last Purchase Price on GeM and the prices at which transactions have been conducted
+on GeM for similar items in the recent past. Buyers should also use the Last Purchase Price as
+recorded by the buying entity in ascertaining price reasonability. The responsibility to ascertain
+the reasonability of price for any buying on GeM rests solely with the buyer. Buyer will be
+incentivized to contribute to the price rigor on the platform by sharing relevant information.
+
+5.2.4.4 Modes of Procurement on GeM
+
+As mentioned earlier, for all products and services available on GeM, buyers must procure
+through GeM. Since GeM aims to be a one-stop shop for buyers, buyers shall not be required to
+publish or advertise the opportunity on any platform outside of GeM when procuring from GeM.
+
+GeM supports three primary buying modes and the appropriate use of the buying mode shall
+be indicated by the platform as per the total value of the procurement. The three buying modes
+supported are Direct Purchase, Direct Purchase with L1 and e-bid/RA. Thus, all other procurement
+modes such as Purchase without Quotations or Purchase by Purchase Committee or Purchase
+through Limited Tender Enquiry shall not be applicable for the products and services available on
+GeM. Since inclusivity is one of the core elements of GeM, GeM shall not support purchase within
+a limited seller group. Maximizing the number of competing sellers will only result in better
+prices for the buyer.
+
+As a marketplace, since all sellers receive real-time notifications when relevant bids are
+published, minimum period time of 10 days has been deemed sufficient. Similarly, for
+performance guarantee on GeM, the recommended value is 2% of the contract value. The lower
+amount of performance guarantee needed on GeM stems from the fact that GeM is a trust-based
+system with multiple inbuilt systems enabling seller qualification as described previously. Also,
+lowering the performance guarantee allows GeM to maximize inclusivity and the number of
+sellers participating and reduce the overall cost of the transaction.
+
+5.2.4.5 Procurement of Services
+
+As mentioned earlier, the standardization of parameters is a crucial facet of GeM and is a key
+mechanism by which GeM enables the buyer to ascertain the quality for both products and
+services.
+                                                                                                    36
+However, it is important to recognize that the assessment of quality for services is a continuum. On
+one end, there are a set of standard services where complexity is low and quality may be assessed
+by way of a set of technical specifications. This gives way to slightly complex services, including the
+bundling of products and services. In such cases, it may be important for the buyer to establish
+relevant work experience as a measure of quality. And on the other end, we have project-based
+buying where quality may be ascertained by multiple aspects such as financial net worth, approach
+and methodology, and current set of ongoing works. Thus, GeM enables the buyer to make an
+informed decision basis these different criteria and basis where the services lie on the continuum,
+thereby capturing the essence of Quality and Cost Based Selection.
+
+Thus, the procurement process for services, similar to products, will be inbuilt into the system and
+buyers shall not need to follow any concurrent processes that may be applicable in the offline
+procurement process.
+
+5.2.4.6 Order Fulfillment and Payment
+
+GeM lays down a standardized process with definite timelines for both order fulfillment and
+payment. Buyers must ensure that they follow the online process and update the required
+information/issue certificates as applicable and in a timely manner. The process laid out by GeM
+shall replace any parallel processes followed currently.
+
+All key documents for order fulfillment and payment such as purchase/sanction order, invoice and
+bill shall be generated by the platform based on user input and selections. GeM shall stipulate the
+timelines for the different stages of the process such as delivery of the goods/services, generation
+of Provisional Receipt Certificate (PRC), generation of Consignee Receipt and Acceptance Certificate
+(CRAC), and transfer of payment. GeM reserves the right to take appropriate action in case of non-
+adherence.
+
+5.2.4.7 Contract Management
+
+The contract shall be auto-generated on the GeM platform basis the specified technical
+parameters, the details chosen by the buyer such as delivery period and delivery terms and the
+General Terms and Conditions (GTC) of the platform, the product/service specific Special Terms and
+Conditions (STC) and the bid/RA specific Additional Terms and Conditions (ATC) if applicable. There
+is no need for the buyer to include any additional terms and conditions in the contract.
+
+5.2.4.8 GeM Service levels
+
+As an online system for procurement, GeM service levels aim at maximum efficiency in its
+operations from placing a demand to closing with payments on time for contracts fulfilled. Each of
+the steps across transactions have specified time for performance by both sellers and buyers. GeM
+SPV shall take all appropriate measures to ensure that both buyers and sellers adhere to these
+terms and conditions. These measures shall include Ratings (parameters), issuing notices, watch
+list and defaulters being disabled.
+
+5.2.5 Other Actionables for Buyers
+
+5.2.5.1 Uploading of Annual Procurement Plan
+
+Rule 149 (vi) of the GFR 2017 states “The Ministries/Departments shall work out their procurement
+requirements of Goods and Services on either OPEX model or CAPEX model as per their
+requirement/suitability at the time of preparation of Budget Estimates (BE) and shall project
+37
+their Annual Procurement Plan of goods and services on GeM portal within 30 days of Budget
+approval.”
+
+     i. Thus, in line with the GFR mandate, all buyers must provide a projection of their annual
+     demands in the format prescribed by GeM indicating required goods/services along with
+     the specification, quality, quantity, consignee location and time of requirement etc. at the
+     beginning of the financial year. The buyer will have the flexibility to continuously update the
+     plan.
+
+     ii. The information will be used by GeM for predictive assessment and to allow effective
+     demand forecasting and planning. This will help sellers plan better and in turn ensure
+     availability of required products/services and lower prices for the buyer. Removal of Difficulty
+     Any difficulties experienced during the course of implementation of this notification shall
+     be clarified by the GeM SPV under the Ministry of Commerce through suitable press releases,
+     which shall be kept on public domain.
+
+5.2.5.1 Removal of Difficulty
+
+Any difficulties experienced during the course of implementation of this notification shall be
+clarified by the GeM SPV under the Ministry of Commerce through suitable press releases, which
+shall be kept on public domain.
+                                                                                                       38

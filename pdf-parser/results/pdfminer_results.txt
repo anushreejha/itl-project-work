@@ -1,0 +1,4 @@
+PDF File,Processing Time (s)
+pdf3.pdf,0.51
+pdf2.pdf,0.49
+pdf1.pdf,1.84
