@@ -1,4 +1,0 @@
-PDF File,Processing Time (s)
-pdf3.pdf,6.08
-pdf2.pdf,11.69
-pdf1.pdf,141.24
